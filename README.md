@@ -2,11 +2,11 @@
 
 [![serverless][sls-image]][sls-url]
 [![npm package][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
+[![Build Status][build-image]][build-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
 [![Downloads][downloads-image]][npm-url]
 
-A Serverless 1.x-and-above plugin to add support for Lambda Architectures.
+A Serverless 1.x-and-above plugin to add support for [AWS Lambda instruction set architectures](https://docs.aws.amazon.com/lambda/latest/dg/foundation-arch.html).
 
 ## Motivation
 
@@ -53,8 +53,8 @@ functions:
 [sls-url]: http://www.serverless.com
 [npm-image]: https://img.shields.io/npm/v/serverless-aws-lambda-architecture.svg
 [npm-url]: http://npmjs.org/package/serverless-aws-lambda-architecture
-[travis-image]: https://travis-ci.org/digio/serverless-aws-lambda-architecture.svg?branch=master
-[travis-url]: https://travis-ci.org/digio/serverless-aws-lambda-architecture
+[build-image]: https://github.com/digio/serverless-aws-lambda-architecture/actions/workflows/npm-publish.yml/badge.svg
+[build-url]: https://github.com/digio/serverless-aws-lambda-architecture/actions
 [coveralls-image]: https://coveralls.io/repos/github/digio/serverless-aws-lambda-architecture/badge.svg?branch=master
 [coveralls-url]: https://coveralls.io/github/digio/serverless-aws-lambda-architecture?branch=master
 [downloads-image]: https://img.shields.io/npm/dm/serverless-aws-lambda-architecture.svg
