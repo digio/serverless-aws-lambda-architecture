@@ -1,6 +1,6 @@
 {
   "name": "serverless-aws-lambda-architecture",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Enable Architectures for AWS Lambda to use ARM64 with Serverless 1.x+",
   "keywords": [
     "serverless",
