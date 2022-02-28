@@ -45,7 +45,8 @@ functions:
   arm64Function:
     handler: handler
     description: "Uses the ARM64 architecture"
-    architectures: arm64
+    architectures: 
+      - arm64
     
 ```
 
